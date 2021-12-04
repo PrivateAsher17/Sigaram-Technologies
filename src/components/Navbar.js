@@ -7,7 +7,7 @@ export class Navbar extends Component {
       <div>
         <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
           <div className="container-fluid">
-            <a className="navbar-brand" to="/">
+            <a href="/" className="navbar-brand" to="/">
               Sigaram News - Explore By Country
             </a>
             <button
